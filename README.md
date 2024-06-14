@@ -15,3 +15,8 @@ How to Play:
 3. Start Guessing: The second player guesses one letter at a time.
 4. Feedback: After each guess, the program provides feedback on the number of occurrences of the guessed letter and the current state of the word.
 5. Win Condition: The game continues until the word is fully guessed. The total number of attempts is displayed at the end.
+
+
+Execute the following lines sequentially to run the game:
+1. javac hangman.java
+2. java hangman
